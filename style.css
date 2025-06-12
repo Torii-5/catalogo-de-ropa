@@ -1,0 +1,14 @@
+div{
+    border: 1px solid;
+    width: 300px;
+    height: 400px;
+    margin: auto;
+    display:inline-flexbox;
+}
+#ropa {
+    color: rgb(203, 133, 28);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#comprá {
+    color: rgb(38, 178, 38);
+}
